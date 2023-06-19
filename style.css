@@ -1,0 +1,15 @@
+body {
+    background: coral;
+}
+
+.container {
+    padding: 1%;
+    margin: 1%;
+    background: white;
+    border-radius: 20px;
+}
+
+.foto {
+    width: 100px;
+    height: 100px;
+}

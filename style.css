@@ -12,11 +12,15 @@ body {
     border-radius: 20px;
 }
 
-.foto {
-    width: 100%;
+.img-fluid {
+    border-radius: 5px;
 }
 
-li {
+h1 {
+    font-weight: bold;
+}
+
+.col-10 ul li {
     list-style: none;
 }
 
